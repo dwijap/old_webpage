@@ -17,10 +17,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/about/"
+ - name: "Projects"
+   link: "/projects/"
  - name: "CV"
    link: "Dwija_Parikh_CV.pdf"
  - name: "Blog"
-   link: "blog"
+   link: "/blog/"
    
