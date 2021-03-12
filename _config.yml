@@ -1,6 +1,6 @@
 title: Dwija Parikh
+baseurl: ""
 url: "https://dwijap.github.io"
-baseurl: "/home"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
