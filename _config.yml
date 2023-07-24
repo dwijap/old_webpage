@@ -10,7 +10,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana/researcher"
-footer_text: "Page design"
+footer_text: "Page Design"
 
 sass:
     style: compressed
