@@ -1,5 +1,8 @@
+---
+layout: default
+---
 
-### Projects
+## Projects
 
 #### Probing Large Pre-trained Multilingual Language Models for Typological Signals Master’s Thesis supervised by Prof. Shane Steinert-Threlkeld
 * Conducted an in-depth analysis of large pre-trained multilingual language models to probe typological signals, aiming to uncover language-specific features and patterns across diverse languages
