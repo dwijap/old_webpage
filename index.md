@@ -6,7 +6,7 @@ layout: default
 ## About Me
 
 
-<img class="profile-picture" src="website_prof_pic.jpeg">
+<img class="profile-picture" src="website_prof_pic.png">
 
 Hi! I'm currently a Master's student in Computational Linguistics at the University of Washington. My Master's thesis is on Probing Multilingual LLMs for Typological Signals, supervised by Prof. Shane Steinert-Threlkeld. 
 
