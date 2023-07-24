@@ -18,7 +18,9 @@ sass:
 
 nav:
 
- - name: "Resume"
+ - name: "CV"
    link: "Dwija_Parikh_Resume_Jun23.pdf"
+- name: "Projects"
+   link: "contact"
 
    
